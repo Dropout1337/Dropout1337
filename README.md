@@ -1,5 +1,5 @@
 <p align="center">
   </a><br>
-  📝  Repos: 19<br>
-  😲  Followers: 101<br>
+  📝  Poggers: 19<br>
+  😲  Idoits: 101<br>
 </p>
