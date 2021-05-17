@@ -13,3 +13,5 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/133631958897917953.png" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ecriminal&theme=dracula&margin-w=15&margin-h=15&column=7)]()
