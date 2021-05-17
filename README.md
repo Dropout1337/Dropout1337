@@ -1,5 +1,5 @@
 
-<h2 align="center">Dropouts's Stats</h2>
+<h2 align="center">Dropout's Stats</h2>
 <a href="https://github.com/Dropout1337">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Dropout1337" alt="Profile Views Count">
