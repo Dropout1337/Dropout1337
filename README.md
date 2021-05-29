@@ -11,9 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/133631958897917953.png" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dropout1337&theme=nord&margin-w=15&margin-h=15&column=7" />
 </p>
